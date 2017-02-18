@@ -23,7 +23,7 @@ Díky těmto úpravám je mikroskop již zcela nezávislý a vyžaduje pouze min
 Softwarová část
 ================================
 
-V oblasti software jsem řešil také pár problémů.
+V oblasti software jsem řešil také několik problémů.
 
 Bylo třeba vyřešit jakým způsobem budu komunikovat s modulem kamery. Toto jsem vyřešil pomocí pythonovské knihovny picamera, která byla k tomuto účelu vytvořena. Než jsem ji však mohl začít používat, musel jsem modul kamery povolit v základním nastavení Raspberry Pi.
 

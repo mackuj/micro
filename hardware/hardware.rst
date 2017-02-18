@@ -76,7 +76,7 @@ Mikroskop
 
 .. index:: Mikroskop
 
-Ve svém projektu jsem použil již trochu starší Kleinmikroskop typu C od firmy ROW Ratenow s maximálním zvetšením 225x, bez umělého zdroje světla.
+Ve svém projektu jsem použil již trochu starší Kleinmikroskop typu C od firmy ROW Ratenow s maximálním zvetšením 225×, bez umělého zdroje světla.
 
 Mikroskop se používá ke zkoumání mikro světa (což je obsaženo v jeho názvu), od hmyzu, až po stavbu látek. Funguje na optickém principu ohýbání světla. 
 
@@ -113,7 +113,7 @@ Vzorky jsou zleva:
 * okvětní plátek květiny Crossandra Fortuna
 * slupka z červené cibule
 * vnitřní slupka cibule
-* list Pryšce Nádherného (zvaný vánoční hvězda)
+* list Pryšce nádherného (zvaný vánoční hvězda)
 * lidský vlas
 * list květiny Crossandra Fortuna
 * trn z kaktusu
