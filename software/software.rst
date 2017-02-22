@@ -39,10 +39,10 @@ Python je víceúčelový vysokoúrovňový skriptovací programovací jazyk. By
 
 Programovací jazyk Python vyniká zejména: 
 
-* jednoduchou syntaxí-snadno se učí, je velice vhodný pro začátečníky
-* univerzálností-lze použít jak pro krátké programy, tak i pro rozsáhlé aplikace
-* obsáhlou nabídkou knihoven-umožňuje rychlý vývoj aplikací
-* podporou objektového programování-není vyžadováno, programy ho nemusí využívat
+* jednoduchou syntaxí - snadno se učí, je velice vhodný pro začátečníky
+* univerzálností - lze použít jak pro krátké programy, tak i pro rozsáhlé aplikace
+* obsáhlou nabídkou knihoven - umožňuje rychlý vývoj aplikací
+* podporou objektového programování - není vyžadováno, programy ho nemusí využívat
 
 
 Jako příklad kódu v různých programovacích jazycích se používá výpis známé věty *Hello World!* (Ahoj světe!). V Pythonu, jak je vidět, je to velice jednoduché.
@@ -155,12 +155,12 @@ Struktura programu je určena požadavky rámce Flask, který odděluje výkonn�
 
 Ve výše uvedené struktuře jsou nejdůležitější soubory:
 
-* run.py-spouští webovou aplikaci, která běží na Raspberry Pi jako server.
-* views.py-vlastní kód pro snímání a úpravu obrazů.  
-* base.html-základní šablona v html
-* fun.html-kód pro html zobrazení nasnímaných a upravených obrazů. Obsahuje vstupní body pro přenos dat mezi kódem ve views.py a výsledným html. 
-* style.css-kaskádový styl
-* SimpleQueryDropdowns-knihovna v javascriptu, pomocí které je vytvořeno nabídkové menu
+* run.py - spouští webovou aplikaci, která běží na Raspberry Pi jako server.
+* views.py - vlastní kód pro snímání a úpravu obrazů.  
+* base.html - základní šablona v html
+* fun.html - kód pro html zobrazení nasnímaných a upravených obrazů. Obsahuje vstupní body pro přenos dat mezi kódem ve views.py a výsledným html. 
+* style.css - kaskádový styl
+* SimpleQueryDropdowns - knihovna v javascriptu, pomocí které je vytvořeno nabídkové menu
 
 
 Funkci běžící aplikace lze zjednodušeně znázornit na následujícím obrázku:

@@ -3,7 +3,7 @@ Výsledky
 ****************************
 
 
-V této kapitole jsou popsány dosažené výsledky a možné praktické využití ročníkové práce Digitální zpracování mikroskopových obrazů.
+V této kapitole jsou popsány dosažené výsledky a možné praktické využití mé práce Digitální zpracování mikroskopových obrazů.
 
 
 ================================
